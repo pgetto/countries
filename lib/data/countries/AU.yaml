@@ -36,9 +36,9 @@ AU:
   - en
   nationality: Australian
   postal_code: true
-  min_longitude: '113'
-  min_latitude: "-43.65"
-  max_longitude: '159.119444'
-  max_latitude: "-9.9"
-  latitude_dec: "-25.585241317749023"
-  longitude_dec: '134.50411987304688'
+  min_longitude: '112.9215626'
+  min_latitude: '-54.7772185'
+  max_longitude: '159.2554969'
+  max_latitude: '-9.2198214'
+  latitude_dec: '-25.274398'
+  longitude_dec: '133.775136'
